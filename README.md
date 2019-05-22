@@ -1,2 +1,3 @@
-# Drello
-A trello Clone using react redux
+# Trello Clone
+
+Trello Clone Using React js and redux

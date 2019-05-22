@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.headbar{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.titleName{
+    color: 'white'
+}
