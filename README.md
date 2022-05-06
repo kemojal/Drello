@@ -1,3 +1,3 @@
 # Trello Clone
 
-Trello Clone Using React js and redux
+Trello Clone Using React js and redux> ITS FEATURES INCLUDE -- DELETING CARDS, ADDING CARDS, LABELLING, TRACKING,...
